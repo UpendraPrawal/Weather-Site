@@ -1,59 +1,86 @@
-# Weather App
+# Whether-Site 🌤️
 
-Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
+> Your friendly weather companion — simple, fast, and reliable.
+
+Whether-Site is a lightweight and responsive weather website that lets you check current weather conditions for any city with ease. Featuring intuitive design and dynamic weather icons, it delivers a smooth user experience on both desktop and mobile devices.
+
+---
 
 ## Features
 
-- **Live Weather Data**: Get up-to-date weather information for your current location or search for any city worldwide.
-- **5 Days Forecast**: You Can See your city 5 days forecast 
-- **Explore Section**: You Can See Many Random City Weather On Explore Section
-- **Add More Citys**: You Can Add More Citys 
+- 🔍 Search weather by city name instantly  
+- ☀️ Animated weather icons reflecting real-time conditions  
+- 📱 Fully responsive design for all screen sizes  
+- 🌍 Multiple pages including search results and world weather overview
 
-### Technologies Used 
+---
 
-- **Frontend**: HTML, CSS, JAVASCRIPT
-- **API**: [OpenWeatherMap](https://openweathermap.org/)
-- **Icons**: [Fontawesome](https://fontawesome.com/)
+## Technologies Used
 
-### Additional information 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **To get name of the location (city name or area name) by using longitude and latitude** :- 
-https://openweathermap.org/api/geocoding-api
+---
+## Project Structure
 
-- **To get current location weather** :- 
-https://openweathermap.org/current
+D:/Codes/Whether/
+- css/
+  - search.css
+  - style.css
+  - world.css
+- img/
+  - cloud.png
+  - haze.png
+  - icon.png
+  - mist.png
+  - rain.png
+  - snow.png
+  - sun.png
+  - thunderstorm.png
+  - wind.png
+- js/
+  - main.js
+  - search.js
+  - world.js
+- index.html
+- search.html
+- world.html
+- README.md
 
-- **To get 5 day forecast** :-  https://openweathermap.org/forecast5
 
-## Getting Started
 
-To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
 
-- A modern web browser.
-- An API key from [OpenWeatherMap Api](https://home.openweathermap.org/api_keys)
+---
 
-### Installation
+## Live Demo
+
+Check out the live demo here:  
+[Whether-Site Live Demo](https://upendraprawal.github.io/Whether-Site/)
+
+---
+
+## How to Use
 
 1. Clone the repository:
-```sh
- git clone https://github.com/kaushalsahu07/weather.git
-```
-2. Navigate to the project directory:
-```sh 
-cd weather
-```
-3. Change API key for all the js files
-```javascript
-let apiKey = "Your API Key";
-``` 
-4. Open `index.html` in your browser to view the project.
 
-### Usage
+    ```bash
+    git clone https://github.com/UpendraPrawal/Whether-Site.git
+    ```
 
-To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
+2. Open the `index.html` file in your preferred web browser.
+
+3. Type your city name in the search bar to view the current weather.
+
+---
+
+## Contribution
+
+Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 
+---
 
-
+Made with ❤️ by Upendra Prawal  
+[Visit my GitHub Profile](https://github.com/UpendraPrawal)
