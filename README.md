@@ -1,8 +1,8 @@
-# Whether-Site 🌤️
+# Weather-Site 🌤️
 
 > Your friendly weather companion — simple, fast, and reliable.
 
-Whether-Site is a lightweight and responsive weather website that lets you check current weather conditions for any city with ease. Featuring intuitive design and dynamic weather icons, it delivers a smooth user experience on both desktop and mobile devices.
+Weather-Site is a lightweight and responsive weather website that lets you check current weather conditions for any city with ease. Featuring intuitive design and dynamic weather icons, it delivers a smooth user experience on both desktop and mobile devices.
 
 ---
 
@@ -24,7 +24,7 @@ Whether-Site is a lightweight and responsive weather website that lets you check
 ---
 ## Project Structure
 
-D:/Codes/Whether/
+D:/Codes/Weather/
 - css/
   - search.css
   - style.css
@@ -57,7 +57,7 @@ D:/Codes/Whether/
 ## Live Demo
 
 Check out the live demo here:  
-[Whether-Site Live Demo](https://upendraprawal.github.io/Whether-Site/)
+[Whether-Site Live Demo](https://upendraprawal.github.io/Weather-Site/)
 
 ---
 
@@ -66,7 +66,7 @@ Check out the live demo here:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/UpendraPrawal/Whether-Site.git
+    git clone https://github.com/UpendraPrawal/Weather-Site.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
